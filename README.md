@@ -1,2 +1,3 @@
 # oscp_toolkit
-Some tools for the OSCP. 
+
+- Useful tools 🐱‍👤
