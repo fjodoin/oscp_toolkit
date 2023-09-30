@@ -4,7 +4,7 @@ import json
 import requests
 import argparse
 from bs4 import BeautifulSoup
-# Code built from HTB modules
+# Code built from OSCP modules
 
 def results(file):
         content=open(file,'r').readlines()
