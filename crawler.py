@@ -7,8 +7,6 @@ import requests
 import argparse
 from bs4 import BeautifulSoup
 
-# This script appears to be based on content from OSCP (Offensive Security Certified Professional) modules.
-
 # Define a function 'results' that reads a JSON file and extracts URLs from it.
 def results(file):
     content = open(file, 'r').readlines()
